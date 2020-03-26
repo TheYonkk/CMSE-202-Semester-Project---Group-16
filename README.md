@@ -14,3 +14,9 @@ Once a model is created, it can be used to analyze data in real-time on the MSU 
 | Analysis of the algorithm/model | Luke|
 | Making graphs and displays for the model | Victor & Henry|
 | Interpreting the model to real life for real-time analysis | Dave |
+
+# Late-Night Testing of the Oil System
+![Oil Pressure Testing](https://live.staticflickr.com/65535/49127949753_5c58735146_b.jpg)
+
+# Driver Display with Warning Signal
+![Driver Dashboard Display](https://live.staticflickr.com/65535/49650505352_4068629cb9_b.jpg)

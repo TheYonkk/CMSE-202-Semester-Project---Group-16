@@ -20,5 +20,3 @@ Once a model is created, it can be used to analyze data in real-time on the MSU 
 
 # Driver Display with Warning Signal
 ![Driver Dashboard Display](https://live.staticflickr.com/65535/49650505352_4068629cb9_b.jpg)
-
-no, i wnated to edit this

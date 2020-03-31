@@ -34,7 +34,3 @@ def load_windarab_log(path, column_labels, preview = False):
         plt.show()
 
     return df
-
-
-data_labels = ['Time', 'Engine Temp', 'Oil Temp', 'Oil Pressure', 'RPM']
-print(load_windarab_log('data/ford_data_log.txt', data_labels, True))

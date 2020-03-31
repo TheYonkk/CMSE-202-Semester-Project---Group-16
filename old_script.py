@@ -20,7 +20,7 @@ from datetime import datetime
 RPM_LOWER_BOUND = 2500
 
 # path to the txt file exported by darab
-good_data_path = "sample_data/sample_good_oilp_2.txt"
+good_data_path = "data/sample_good_oilp_2.txt"
 
 # path to the bad data (if applicable)
 bad_data_path = "sample_data/sample_bad_oilp_1.txt"
